@@ -17,11 +17,5 @@
         }
       ]
     }
-  ],
-  "routes": [
-    {
-      "src": "/api/coffees",
-      "dest": "/server.js"
-    }
   ]
 }
